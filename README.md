@@ -1,5 +1,5 @@
-#Bot de discord
-####Bot que envía anuncios a un canal de texto determinado.
+# Bot de discord
+#### Bot que envía anuncios a un canal de texto determinado.
 
 Este es un pequeño proyecto que va ir evolucionando al pasar el tiempo.
 
